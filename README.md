@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaiNgonheng
-- 👀 I’m interested in Technology AI ML
+- 👀 I have a strong passion in Technology.
 - 🌱 I’m currently learning Spring and Angular
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me @heng68807@gmail.com
