@@ -7,14 +7,6 @@
 
 - 🔭 I’m currently deep using on **SpringBoot**
 
-- 🌱 I’m currently learning **SpringBoot, NextJS, Typescript. Big Data**
-
-- 👯 I’m looking to collaborate on **The wild oasis**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TaiNgonheng](https://github.com/TaiNgonheng)
-
-- 💬 Ask me about **Java, Spring Framework, React JS**
-
 - 📫 How to reach me **heng68807@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14DCTT8TbaaPCwqi2YEi-PUbf6vhpo_es/view?usp=sharing](https://drive.google.com/file/d/14DCTT8TbaaPCwqi2YEi-PUbf6vhpo_es/view?usp=sharing)
