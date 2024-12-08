@@ -1,11 +1,18 @@
-<h1 align="center">How do you do? I'm ...Tai Ngonheng</h1>
+
+<h1 align="center">Excuse Me👋, I'm Tai Ngonheng</h1>
 <h3 align="center">A Strong Passioner and Walk with Tech in Cambodia.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taingonheng" alt="taingonheng" /></a> </p>
+- 🔭 I’m currently working on **SpringBoot**
 
-- 🔭 I’m currently deep using on **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot, NextJS, Typescript. Big Data**
+
+- 👯 I’m looking to collaborate on **The wild oasis**
+
+- 👨‍💻 All of my projects are available at [https://github.com/TaiNgonheng](https://github.com/TaiNgonheng)
+
+- 💬 Ask me about **Java, Spring Framework, React JS**
 
 - 📫 How to reach me **heng68807@gmail.com**
 
