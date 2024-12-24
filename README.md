@@ -1,7 +1,7 @@
 
 <h1 align="center">Excuse Me👋, I'm Tai Ngonheng</h1>
 <h3 align="center">A Strong Passioner and Walk with Tech in Cambodia.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/57/ec/8157ec2e17b958e2a5ec28a725dd8327.gif">
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif">
 
 
 - 🔭 I’m currently working on **SpringBoot**
