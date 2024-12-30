@@ -25,7 +25,7 @@
 ## My GitHub Stats
 <a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-stats.vercel.app/api?username=TaiNgonheng&show_icons=true&layout=compact&theme=dark" alt="Galaxy092's GitHub stats" /></a>
 <a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaiNgonheng&theme=dark#gh-dark-mode-only&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-## My Wakatime Stats
+## My Wakatime Stats -- SINCE NOV 16 2024
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heng&layout=compact&theme=dark#gh-dark-mode-only)
 <a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiNgonheng&layout=compact&theme=dark" /></a>
 
