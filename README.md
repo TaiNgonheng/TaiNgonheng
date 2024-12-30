@@ -10,50 +10,25 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/TaiNgonheng)
 
-- 💬 Ask me about **Java, Spring Framework, React JS**
-
 - 📫 Reach me at **heng68807@gmail.com**
 
-- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/14DCTT8TbaaPCwqi2YEi-PUbf6vhpo_es/view?usp=sharing)
-
 - ⚡ Fun fact: **I use Java for the backend and React.js for the frontend.**
+## Live View Count
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/tai ngonheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tai ngonheng" height="30" width="40" /></a>
-<a href="https://fb.com/bersbersnhamboneheh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook profile" height="30" width="40" /></a>
-<a href="https://instagram.com/tai ngonheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram profile" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/b4ol1rxqec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode profile" height="30" width="40" /></a>
-</p>
+![](https://gh-hits.nomadcoders.workers.dev/view?username=TaiNgonheng)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-</p>
+## Skills
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taingonheng&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taingonheng&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+[![Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,redux,next,tailwind,nodejs,postgres,py,figma,git,docker,jest,linux,aws,githubactions)](https://skillicons.dev)
+
+## My GitHub Stats
+
+<a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-stats.vercel.app/api?username=TaiNgonheng&show_icons=true&layout=compact&theme=dark" alt="Galaxy092's GitHub stats" /></a>
+
+<a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaiNgonheng&theme=dark#gh-dark-mode-only&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+
+<a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiNgonheng&layout=compact&theme=dark" /></a>
+
+## My Wakatime Stats
+
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Heng&layout=compact&theme=dark#gh-dark-mode-only)
