@@ -1,4 +1,4 @@
-<h1 align="center">Excuse Me👋, I'm Tai Ngonheng</h1>
+<h1 align="center">👋, I'm Tai Ngonheng</h1>
 <h3 align="center">A Strong Passionate Tech Enthusiast from Cambodia</h3>
 <img align="right" alt="Coding" width="400" src="https://go.dev/images/gophers/motorcycle.svg">
 
@@ -19,16 +19,19 @@
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,redux,next,tailwind,nodejs,postgres,py,figma,git,docker,jest,linux,aws,githubactions)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,next,tailwind,mongo,postgres,py,figma,docker,linux,aws,githubactions)](https://skillicons.dev)
+
 
 ## My GitHub Stats
-
 <a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-stats.vercel.app/api?username=TaiNgonheng&show_icons=true&layout=compact&theme=dark" alt="Galaxy092's GitHub stats" /></a>
-
 <a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaiNgonheng&theme=dark#gh-dark-mode-only&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
+## My Wakatime Stats
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heng&layout=compact&theme=dark#gh-dark-mode-only)
 <a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiNgonheng&layout=compact&theme=dark" /></a>
 
-## My Wakatime Stats
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Heng&layout=compact&theme=dark#gh-dark-mode-only)
+
+
+
+
+
