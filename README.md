@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Tai Ngonheng</h1>
 <h3 align="center">A Strong Passionate Tech Enthusiast from Cambodia</h3>
-<img align="right" alt="Coding" width="400" src="https://go.dev/images/gophers/motorcycle.svg">
+<img align="right" alt="Coding" width="400" src="https://p1.hiclipart.com/preview/863/397/253/koenigsegg-angelholm-ghost-squadron-insignia-png-clipart.jpg">
 
 - 🔭 I’m currently working on **SpringBoot**
 
