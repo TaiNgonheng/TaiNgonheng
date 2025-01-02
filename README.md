@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Tai Ngonheng</h1>
 <h3 align="center">A Strong Passionate Tech Enthusiast from Cambodia</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif?cid=6c09b952basgrzxnbholssw7chtwr41ks9lu56og30ewr1g4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="280" src="https://media2.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif?cid=6c09b952basgrzxnbholssw7chtwr41ks9lu56og30ewr1g4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **SpringBoot**
 
