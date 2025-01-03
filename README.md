@@ -13,8 +13,6 @@
 - 📫 Reach me at **heng68807@gmail.com**
 
 - ⚡ Fun fact: **I use Java for the backend and React.js for the frontend.**
-## Live View Count
-
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=TaiNgonheng)
 
 ## Skills
