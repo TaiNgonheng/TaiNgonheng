@@ -1,22 +1,4 @@
-<h1 align="center">👋, I'm Tai Ngonheng</h1>
-<h3 align="center">A Strong Passionate Tech Enthusiast from Cambodia</h3>
-<img align="right" alt="Coding" width="220" src="https://media2.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif?cid=6c09b952basgrzxnbholssw7chtwr41ks9lu56og30ewr1g4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-
-- 🌱 I’m currently learning **SpringBoot, Next.js, TypeScript, and Big Data**
-
-- 👯 I’m looking to collaborate on **The Wild Oasis**
-
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/TaiNgonheng)
-
-- 📫 Reach me at **heng68807@gmail.com**
-
-- ⚡ Fun fact: **I use Java for the backend and React.js for the frontend.**
-![](https://gh-hits.nomadcoders.workers.dev/view?username=TaiNgonheng)
-
-## Skills
-
-[![Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,next,tailwind,mongo,postgres,py,figma,docker,linux,aws,githubactions)](https://skillicons.dev)
 
 
 ## My GitHub Stats
