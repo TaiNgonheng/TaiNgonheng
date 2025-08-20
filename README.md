@@ -1,8 +1,6 @@
 
 
-## My GitHub Stats
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4E64F7&width=435&lines=🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️🙂‍↕️ " alt="Typing SVG" /></a>
-<a href="http://www.github.com/TaiNgonheng"><img src="https://github-readme-stats.vercel.app/api?username=TaiNgonheng&show_icons=true&layout=compact&theme=dark" alt="Galaxy092's GitHub stats" /></a>
+
 ## My Wakatime Stats -- SINCE NOV 16 2024
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heng&layout=compact&theme=dark#gh-dark-mode-only)
 
